@@ -1,0 +1,8 @@
+mf_id = "__testing2_smallform_00598.json"
+mf_lang = "en"
+mf_label = "tesdocument_ez"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"__testing2_smallform_00598.json" = "https://iiif.annemarie-schwarzenbach.ch/presentation/__testing_smallform_00598.json"
